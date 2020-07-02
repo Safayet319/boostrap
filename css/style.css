@@ -1,0 +1,54 @@
+.img-fluid{
+    max-width: 100%;
+    height: 44px
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    max-width: 100%;
+    height: 44px;
+}
+
+
+
+
+
+
+.background-img{
+    background-image: url(../images/simple-codelines.svg);
+    background-repeat: no-repeat;
+    background-color: rgb(92, 103, 115);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.row h1{
+    color: #fff;
+    font-size: 60px;
+    text-transform: capitalize;
+}
+.row .git{
+
+color: white;
+
+font-size: 19px;
+
+font-weight: 200;
+} 
+.form-container{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+}
+#id{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
